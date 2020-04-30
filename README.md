@@ -15,3 +15,5 @@ Uses a tensorflow API .
 https://colab.research.google.com/github/ojasva22/ANPR/blob/master/ANPR.ipynb
 
 5)https://github.com/BALaka-18/Implementing-Basic-ANPR
+
+6)https://github.com/surajbahadur591/ANPR-Automatic-Number-Plate-Recognition-System-for-Indian-conditions
