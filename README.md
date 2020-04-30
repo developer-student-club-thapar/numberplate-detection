@@ -11,6 +11,7 @@ Uses a tensorflow API .
 3)https://github.com/AjinkyaGhadge/Google-Cloud-based-ALPR
 
 4) https://github.com/ojasva22/ANPR
+
 https://colab.research.google.com/github/ojasva22/ANPR/blob/master/ANPR.ipynb
 
 5)https://github.com/BALaka-18/Implementing-Basic-ANPR
