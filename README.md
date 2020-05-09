@@ -17,3 +17,8 @@ https://colab.research.google.com/github/ojasva22/ANPR/blob/master/ANPR.ipynb
 5)https://github.com/BALaka-18/Implementing-Basic-ANPR
 
 6)https://github.com/surajbahadur591/ANPR-Automatic-Number-Plate-Recognition-System-for-Indian-conditions
+
+
+Colab Notebook for Open-cv Python and pytesseract:
+
+https://colab.research.google.com/drive/1LwbJm_An_7dx4W5iNEab-U0JnUeZ3Y4I?usp=sharing
