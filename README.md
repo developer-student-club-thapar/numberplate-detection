@@ -1,4 +1,4 @@
-# numberplate-detection
+# Indian Number Plate Detection System
 
 Previously used good approaches to lookout for :
 
